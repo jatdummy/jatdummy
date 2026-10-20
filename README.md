@@ -3,5 +3,6 @@
   src="https://render.gitanimals.org/farms/jatdummy"
   width="600"
   height="300"
+  [![GitAnimals](https://gitanimals.org)](https://www.gitanimals.org)
 />
 </a>
